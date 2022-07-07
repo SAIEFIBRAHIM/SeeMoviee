@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SeeMoviee/static/css/main.4ebf9f98.css",
+    "main.js": "/SeeMoviee/static/js/main.594d4c43.js",
+    "static/media/The Dark Knight.jpg": "/SeeMoviee/static/media/The Dark Knight.0099d9140811522df3b1.jpg",
+    "static/media/Joker.jpg": "/SeeMoviee/static/media/Joker.bdd80cfd1864afad95b6.jpg",
+    "static/media/Schindler's List.jpg": "/SeeMoviee/static/media/Schindler's List.2ade3b91e211b90a0331.jpg",
+    "static/media/Fight Club.jpg": "/SeeMoviee/static/media/Fight Club.a05d202acd25bcf30c4f.jpg",
+    "static/media/Gladiator.jpg": "/SeeMoviee/static/media/Gladiator.dcac46cab25718ef5d0a.jpg",
+    "static/media/The Godfather.jpg": "/SeeMoviee/static/media/The Godfather.877e75beb0d29159872f.jpg",
+    "static/media/Inception.jpg": "/SeeMoviee/static/media/Inception.1c3d0bd6ba1938643180.jpg",
+    "static/media/The Shawshank Redemption.jpg": "/SeeMoviee/static/media/The Shawshank Redemption.ac6d38842729fd9be740.jpg",
+    "index.html": "/SeeMoviee/index.html",
+    "main.4ebf9f98.css.map": "/SeeMoviee/static/css/main.4ebf9f98.css.map",
+    "main.594d4c43.js.map": "/SeeMoviee/static/js/main.594d4c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ebf9f98.css",
+    "static/js/main.594d4c43.js"
+  ]
+}
