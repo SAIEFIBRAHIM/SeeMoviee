@@ -2,7 +2,7 @@
   "name": "movie-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://seedevs.me",
+  "homepage": "http://saiefibrahim.github.io/SeeMoviee",
   "dependencies": {
     "daisyui": "^2.17.0",
     "gh-pages": "^4.0.0",
